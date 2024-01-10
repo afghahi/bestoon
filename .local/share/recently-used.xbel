@@ -167,12 +167,12 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/linux1/w/bestoon2/bestoon2/bestoon2/web/models.py" added="2024-01-10T07:55:02.557565Z" modified="2024-01-10T07:55:02.557572Z" visited="2024-01-10T07:55:02.557566Z">
+  <bookmark href="file:///home/linux1/w/bestoon2/bestoon2/bestoon2/web/models.py" added="2024-01-10T07:55:02.557565Z" modified="2024-01-10T08:32:08.656539Z" visited="2024-01-10T07:55:02.557566Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="text/x-python"/>
         <bookmark:applications>
-          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T07:55:02.557569Z" count="1"/>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T08:32:08.656535Z" count="2"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -183,6 +183,16 @@
         <mime:mime-type type="text/x-python"/>
         <bookmark:applications>
           <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T08:29:31.124577Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon2/bestoon2/bestoon2/gitignore" added="2024-01-10T09:10:26.490670Z" modified="2024-01-10T09:10:26.490673Z" visited="2024-01-10T09:10:26.490670Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T09:10:26.490672Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

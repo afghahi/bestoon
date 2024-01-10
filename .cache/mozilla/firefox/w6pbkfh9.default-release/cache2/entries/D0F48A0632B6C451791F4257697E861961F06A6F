@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="chrome://browser/content/contentSearchUI.css" />
     <link rel="stylesheet" href="chrome://activity-stream/content/css/activity-stream.css" />
   </head>
-  <!-- Cached: Wed, 10 Jan 2024 08:29:13 GMT -->
+  <!-- Cached: Wed, 10 Jan 2024 09:14:17 GMT -->
   <body class="activity-stream">
     <div id="header-asrouter-container" role="presentation"></div>
     <div id="root">
@@ -66,9 +66,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 8596,
+				"frecency": 10503,
 				"guid": "GjXz8IR8q1Jk",
-				"lastVisitDate": 1704875306014,
+				"lastVisitDate": 1704875412596,
 				"title": "Site administration | Django site admin",
 				"url": "http://localhost:8009/admin/",
 				"type": "history",
@@ -214,9 +214,9 @@ window.__STARTUP_STATE__ = {
 			},
 			{
 				"bookmarkGuid": null,
-				"frecency": 8596,
+				"frecency": 10503,
 				"guid": "GjXz8IR8q1Jk",
-				"lastVisitDate": 1704875306014,
+				"lastVisitDate": 1704875412596,
 				"title": "Site administration | Django site admin",
 				"url": "http://localhost:8009/admin/",
 				"type": "history",
@@ -754,7 +754,7 @@ window.__STARTUP_STATE__ = {
 		},
 		"spocs": {
 			"spocs_endpoint": "https://spocs.getpocket.com/spocs",
-			"lastUpdated": 1704874141296,
+			"lastUpdated": 1704878052850,
 			"data": {
 				"settings": {
 					"feature_flags": {
@@ -875,4 +875,4 @@ window.__STARTUP_STATE__ = {
 	}
 };
 
-ÊMõeä¯           ežUYFoÃÿÿÿÿ       :about:home alt-data 1;45713,script version 20231201123816  1-
+†IË0éY           ež_éFoÊ[ÿÿÿÿ       :about:home alt-data 1;45713,script version 20231201123816  1/

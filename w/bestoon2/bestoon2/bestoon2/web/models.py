@@ -18,5 +18,5 @@ class Income(models.Model):
     date = models.DateTimeField()
     amount = models.BigIntegerField()
     user = models.ForeignKey(User , on_delete=models.CASCADE,)
-    def __unicode__(self):
-        return "{}-{}".format(self.date , self.amount)
+    #def __unicode__(self):
+    #    return "{}-{}".format(self.date , self.amount)
