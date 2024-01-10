@@ -1,0 +1,4 @@
+2024-01-10 09:34:33,375 main.py line 203 __bus_destroy_cb INFO: finalizing:)
+2024-01-10 09:34:35,240 factory.py line 108 do_destroy INFO: Syncing user database(s)
+2024-01-10 09:34:35,400 factory.py line 108 do_destroy INFO: Syncing user database(s)
+2024-01-10 09:37:18,851 main.py line 329 main INFO: ********** STARTING **********

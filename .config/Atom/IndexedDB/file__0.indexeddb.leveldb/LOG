@@ -1,0 +1,7 @@
+2024/01/10-10:13:56.449 17ed Reusing MANIFEST /home/linux1/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2024/01/10-10:13:56.449 17ed Recovering log #24
+2024/01/10-10:13:56.460 17ed Reusing old log /home/linux1/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000024.log 
+2024/01/10-10:14:14.386 1977 Compacting 1@1 + 1@2 files
+2024/01/10-10:14:14.473 1977 Generated table #27@1: 74 keys, 18535 bytes
+2024/01/10-10:14:14.473 1977 Compacted 1@1 + 1@2 files => 18535 bytes
+2024/01/10-10:14:14.487 1977 compacted to: files[ 0 0 1 0 0 0 0 ]

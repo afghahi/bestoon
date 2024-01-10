@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/bestoon/settings.py" added="2023-11-21T08:31:59.280483Z" modified="2023-11-21T10:25:39.281790Z" visited="2023-11-21T13:09:13.256609+03:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-11-21T10:25:39.281789Z" count="21"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/bestoon/asgi.py" added="2023-11-21T08:34:05.278959Z" modified="2023-11-21T08:35:20.667213Z" visited="2023-11-21T12:04:02.411382+03:30">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-11-21T08:35:20.667213Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

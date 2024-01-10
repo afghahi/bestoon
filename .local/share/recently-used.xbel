@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/atom.rpm" added="2023-11-21T07:31:27.124080Z" modified="2024-01-09T10:42:00.918866Z" visited="2023-11-21T07:31:27.124081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-software --local-filename %f&apos;" modified="2023-11-21T07:31:27.124082Z" count="1"/>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-09T10:42:00.918864Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/bestoon/settings.py" added="2023-11-21T08:31:55.799777Z" modified="2023-12-19T11:02:06.424538Z" visited="2023-11-21T08:31:55.799777Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-11-21T08:31:55.799778Z" count="1"/>
+          <bookmark:application name="LibreOffice 7.5" exec="&apos;soffice %u&apos;" modified="2023-11-21T08:39:12.405055Z" count="5"/>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-12-19T11:02:06.424536Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/bestoon/asgi.py" added="2023-11-21T08:34:02.371115Z" modified="2023-12-19T05:39:26.177909Z" visited="2023-11-21T08:34:02.371116Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-text-editor" exec="&apos;gnome-text-editor %u&apos;" modified="2023-11-21T08:34:02.371119Z" count="1"/>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-12-19T05:39:26.177904Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/bestoon/settings" added="2023-11-21T08:39:05.852302Z" modified="2023-11-21T08:39:05.852308Z" visited="2023-11-21T08:39:05.852303Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 7.5" exec="&apos;soffice %u&apos;" modified="2023-11-21T08:39:05.852304Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/bestoon" added="2023-11-21T11:08:59.871865Z" modified="2023-11-21T11:08:59.871868Z" visited="2023-11-21T11:08:59.871865Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-11-21T11:08:59.871866Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/web/admin.py" added="2023-11-21T11:13:03.716063Z" modified="2023-12-19T06:09:17.578874Z" visited="2023-11-21T11:13:03.716064Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-12-19T06:09:17.578872Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/web/models.py" added="2023-11-21T11:14:03.265009Z" modified="2023-12-13T04:25:07.490406Z" visited="2023-11-21T11:14:03.265010Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-12-13T04:25:07.490404Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/web" added="2023-11-22T03:40:54.862083Z" modified="2023-11-22T03:41:17.521545Z" visited="2023-11-22T03:40:54.862084Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-11-22T03:41:17.521543Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon" added="2023-12-13T04:25:51.839106Z" modified="2023-12-13T04:25:51.839110Z" visited="2023-12-13T04:25:51.839107Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-12-13T04:25:51.839108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/db.sqlite3" added="2023-12-19T06:26:20.542666Z" modified="2023-12-19T06:26:20.542672Z" visited="2023-12-19T06:26:20.542667Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.sqlite3"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-12-19T06:26:20.542669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/gitignore" added="2023-12-19T07:41:05.846820Z" modified="2023-12-19T07:41:05.846824Z" visited="2023-12-19T07:41:05.846820Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2023-12-19T07:41:05.846822Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/Downloads/bestoon-main.zip" added="2024-01-06T05:26:34.941931Z" modified="2024-01-06T05:26:34.941938Z" visited="2024-01-06T05:26:34.941933Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-06T05:26:34.941935Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/Downloads/bestoon-main(1).zip" added="2024-01-07T08:19:45.677647Z" modified="2024-01-07T08:19:45.677988Z" visited="2024-01-07T08:19:45.677648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox %u&apos;" modified="2024-01-07T08:19:45.677977Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon/bestoon/web/views.py" added="2024-01-10T05:50:56.332583Z" modified="2024-01-10T05:50:56.332624Z" visited="2024-01-10T05:50:56.332584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T05:50:56.332620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon2/bestoon2/bestoon2/bestoon2/urls.py" added="2024-01-10T07:21:46.353857Z" modified="2024-01-10T07:21:46.353861Z" visited="2024-01-10T07:21:46.353858Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T07:21:46.353859Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon2/bestoon2/bestoon2/bestoon2/settings.py" added="2024-01-10T07:53:51.521311Z" modified="2024-01-10T07:53:51.521316Z" visited="2024-01-10T07:53:51.521312Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T07:53:51.521313Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon2/bestoon2/bestoon2/web/models.py" added="2024-01-10T07:55:02.557565Z" modified="2024-01-10T07:55:02.557572Z" visited="2024-01-10T07:55:02.557566Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T07:55:02.557569Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/linux1/w/bestoon2/bestoon2/bestoon2/web/admin.py" added="2024-01-10T08:29:31.124575Z" modified="2024-01-10T08:29:31.124579Z" visited="2024-01-10T08:29:31.124576Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="atom" exec="&apos;atom %u&apos;" modified="2024-01-10T08:29:31.124577Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
